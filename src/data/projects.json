@@ -3,15 +3,7 @@
         "title": "Project A",
         "imageSrc": "projects/project.png",
         "description": "This is a project made to learn the latest technologies by building the app",
-        "skills": ["React", "Express", "Node"],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
-    },
-    {
-        "title": "Project B",
-        "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest technologies by building the app",
-        "skills": ["React", "Express", "Node", "Sass"],
+        "skills": ["React", "HTML", "CSS", "JS"],
         "demo": "https://www.example.com",
         "source": "https://www.github.com"
     }

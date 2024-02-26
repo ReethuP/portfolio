@@ -8,8 +8,16 @@
         "imageSrc": "skills/css.png"
     },
     {
+        "title": "Javascript",
+        "imageSrc": "skills/javascript.png"
+    },
+    {
         "title": "React",
         "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "AEM",
+        "imageSrc": "skills/aem.png"
     },
     {
         "title": "Figma",

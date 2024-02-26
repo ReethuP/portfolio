@@ -1,26 +1,10 @@
 [
     {
-        "role": "Software Engineer",
-        "organisation": "Google",
-        "startDate": "Sept, 2022",
+        "role": "Digital Specialist Engineer",
+        "organisation": "Infosys",
+        "startDate": "Oct, 2021",
         "endDate": "Present",
-        "experiences": ["Worked on Google Maps", "Reduced load time by 50%"],
-        "imageSrc": "history/google.png"
-    },
-    {
-        "role": "UI Designer",
-        "organisation": "Microsoft",
-        "startDate": "Aug, 2021",
-        "endDate": "Aug, 2022",
-        "experiences": ["Worked on Windows 11", "Designed the control panel"],
-        "imageSrc": "history/microsoft.png"
-    },
-    {
-        "role": "SWE Intern",
-        "organisation": "Netflix",
-        "startDate": "April, 2020",
-        "endDate": "June, 2020",
-        "experiences": ["Worked on Component Library", "Helped create UI components"],
-        "imageSrc": "history/netflix.png"
+        "experiences": ["Developed user friendly interfaces using ReactJS", "Implemented responsive design techniques to ensure websites are fully accessible on mobile, tablet and desktop devices"],
+        "imageSrc": "history/infosys.png"
     }
 ]
