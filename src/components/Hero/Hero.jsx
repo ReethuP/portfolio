@@ -8,8 +8,8 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi, I&apos;m Reethu</h1>
         <p className={styles.description}>
           I&apos;m a front-end developer with 2 years of professional experience
-          specializing in React, HTML, CSS, and JavaScript. Reach out if
-          you&apos;d like to learn more!
+          specializing in React, HTML, CSS, and JavaScript. Reach out to me if
+          you&apos;d like to know more!
         </p>
         <a href="mailto:reethu.p.030@gmail.com" className={styles.contactBtn}>
           Contact Me

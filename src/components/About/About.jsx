@@ -17,18 +17,9 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Front end Developer</h3>
               <p>
-                I&apos;m a front-end developer with experience in building
-                responsive and optimised sites.
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
-            <img src={getImageURL("about/uiIcon.png")} alt="UI icon" />
-            <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
-              <p>
-                I have designed UI components to enhance the overall user
-                experience for customers.
+                I&apos;m proficient in front-end technologies like HTML, CSS,
+                JavaScript, TypeScript and React.js. Strong experience in
+                building interactive and dynamic user interfaces
               </p>
             </div>
           </li>
